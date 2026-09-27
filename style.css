@@ -882,9 +882,10 @@ footer {
     pointer-events: none;
 }
 .hero-copy h2.couple-names {
-    font-family: "Cormorant Garamond", serif !important;
+    font-family: "Italianno", serif !important;
     font-size: 70px !important;
     font-weight: 400 !important;
+    color: #d8b779 !important;
     font-style: normal !important;
     letter-spacing: 2px !important;
     line-height: 1.1 !important;
